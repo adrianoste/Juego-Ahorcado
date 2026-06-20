@@ -9,3 +9,6 @@ Adriano Stefano Cabrera Terán
 Juego del Ahorcado desarrollado en Python utilizando estructuras condicionales, ciclos y manejo de cadenas.
 
 ## Estructura
+- diagramas/
+- src/
+- evidencias/
